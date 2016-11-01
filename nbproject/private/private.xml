@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/resources/views/hospital/profile/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/.env</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/resources/views/include/hospital/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/app/HospitalModel/Department.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/app/Http/Controllers/Hospital/ProfileController.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/app/HospitalModel/Register.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/app/Http/Controllers/Hospital/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/HospitalManagement/resources/views/hospital/register.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
